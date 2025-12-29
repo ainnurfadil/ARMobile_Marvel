@@ -1,0 +1,16 @@
+{
+  "feedback_correct": [
+    {
+      "id": 1,
+      "title": "JAWABAN BENAR",
+      "compliment": "Kerja bagus, lanjutkan!",
+      "correctAnswers": "Benar, balok ABCD.EFGH memiliki 4 diagonal ruang, seperti EC, AG, BH, DF, sedangkan DG adalah diagonal sisi karena terjadi pertemuan titik sudut pada bidang sisi"
+    },
+    {
+      "id": 2,
+      "title": "JAWABAN BENAR",
+      "compliment": "Kerja bagus, lanjutkan!",
+      "correctAnswers": "Tepat sekali! Garis FD bukanlah diagonal sisi, melainkan diagonal ruang, karena menghubungkan dua titik sudut yang saling berseberangan dalam balok, yaitu titik F dan D, yang tidak berada pada bidang sisi yang sama."
+    }
+  ]
+}

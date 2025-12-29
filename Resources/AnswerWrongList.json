@@ -1,0 +1,46 @@
+{
+  "feedback_wrong": [
+    {
+      "id": 1,
+      "sections": [
+        {
+          "section_type": "HeaderDescImage",
+          "color_bg_image":"ABD305",
+          "header": "1. Apa itu Diagonal Ruang?",
+          "content": "Diagonal ruang adalah garis yang menghubungkan dua titik sudut balok yang saling berhadapan tetapi tidak berada pada satu bidang sisi. Artinya, garis ini menembus bagian dalam ruang balok.",
+          "image_path": "Assets/Resources/Quiz_images_src/q01/q1_balok.png"
+        },
+        {
+          "section_type": "DetailsList",
+          "color_bg_image":"D9D9D9",
+          "content": "Contoh pada balok ABCD.EFGH:",
+          "list": [
+            "Garis HF adalah diagonal sisi.",
+            "Garis ini menghubungkan titik sudut H dengan titik sudut F pada bidang EFGH (sisi atas balok)."
+          ]
+        },
+        {
+          "section_type": "HeaderDescList",
+          "color_bg_image":"ABD305",
+          "header": "2. Berapakah Jumlah Diagonal Sisi pada Balok?",
+          "content": "Setiap balok memiliki 12 diagonal sisi, karena:",
+          "list": [
+            "Setiap bidang sisi balok berbentuk persegi panjang.",
+            "Setiap persegi panjang memiliki 2 diagonal.",
+            "Balok memiliki 6 sisi, sehingga jumlah diagonal sisi adalah 6 x 2 = 12 diagonal sisi."
+          ]
+        },
+        {
+          "section_type": "Details",
+          "color_bg_image":"D9D9D9",
+          "content": "Jika divisualisasikan, keempat diagonal ruang ini membentuk semacam silang dalam balok. Untuk lebih jelasnya, amati dan perhatikan 3D Model berikut!"
+        },
+        {
+          "section_type": "VideoReference",
+          "color_bg_image":"ABD305",
+          "image_path": "Assets/Resources/Quiz_images_src/VideoReference/Diagonal Ruang-1.mp4"
+        }
+      ]
+    }
+  ]
+}

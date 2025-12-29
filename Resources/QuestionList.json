@@ -1,0 +1,68 @@
+{
+    "questions": [
+        {
+            "id": 1,
+            "descriptionText": "Anisa diminta untuk menghitung diagonal ruang yang ada pada bangun balok ABCD.EFGH. Anisa menjelaskan terdapat 4 diagonal ruang pada bangun di bawah.",
+            "statementQuestion": "Menurutmu, apakah jawaban Anisa sudah benar?",
+            "imageSegment": ["Assets/Resources/Quiz_images_src/q01/q1_balok.png"],
+            "sentenceStructure": [
+                "Pernyataan Annisa ",
+                "{blank}",
+                ", karena balok ABCD.EFGH ",
+                "{blank}",
+                " diagonal ruang berjumlah ",
+                "{blank}",
+                ", contohnya ",
+                "{blank}"
+            ],
+            "options": [
+                "BENAR",
+                "SALAH",
+                "MEMILIKI",
+                "TIDAK MEMILIKI",
+                "4",
+                "8",
+                "EC",
+                "DG"
+            ],
+            "correctAnswers": [
+                "BENAR",
+                "MEMILIKI",
+                "4",
+                "EC"
+            ]
+        },
+        {
+            "id": 2,
+            "descriptionText": "Anisa diminta untuk menghitung diagonal ruang yang ada pada bangun balok ABCD.EFGH. Anisa menjelaskan terdapat 4 diagonal ruang pada bangun di bawah.",
+            "statementQuestion": "Menurutmu, apakah jawaban Anisa sudah benar?",
+            "imageSegment": ["Images/DiagonalRuang.png"],
+            "sentenceStructure": [
+                "Pernyataan Annisa",
+                "{blank}",
+                ", karena balok ABCD.EFGH",
+                "{blank}",
+                "diagonal ruang berjumlah",
+                "{blank}",
+                ", contohnya",
+                "{blank}"
+            ],
+            "options": [
+                "BENAR",
+                "SALAH",
+                "MEMILIKI",
+                "TIDAK MEMILIKI",
+                "4",
+                "8",
+                "EC",
+                "DG"
+            ],
+            "correctAnswers": [
+                "BENAR",
+                "MEMILIKI",
+                "4",
+                "EC"
+            ]
+        }
+    ]
+}

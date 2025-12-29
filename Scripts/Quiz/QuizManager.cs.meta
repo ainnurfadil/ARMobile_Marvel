@@ -1,0 +1,33 @@
+fileFormatVersion: 2
+guid: 1600938966eaf4e2bb4db682eee36b2c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - questionJson: {fileID: 4900000, guid: 1df30e873eb4fb048bf6c5e961208f6c, type: 3}
+  - wrongFeedbackJson: {instanceID: 0}
+  - correctFeedbackJson: {instanceID: 0}
+  - questionPanel: {instanceID: 0}
+  - confirmationPopup: {instanceID: 0}
+  - feedFalsePanel: {instanceID: 0}
+  - feedCorrectPanel: {instanceID: 0}
+  - descriptionText: {instanceID: 0}
+  - questionImage: {instanceID: 0}
+  - sentenceContainer: {instanceID: 0}
+  - textPrefab: {instanceID: 0}
+  - slotPrefab: {instanceID: 0}
+  - optionsGrid: {instanceID: 0}
+  - checkButton: {instanceID: 0}
+  - checkButtonText: {instanceID: 0}
+  - confirmAnswerSummary: {instanceID: 0}
+  - confirmSubmitBtn: {instanceID: 0}
+  - confirmBackBtn: {instanceID: 0}
+  - correctMessageText: {instanceID: 0}
+  - wrongHeaderText: {instanceID: 0}
+  - wrongContentContainer: {instanceID: 0}
+  - wrongSectionPrefab: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,42 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.UI; // Penting untuk LayoutRebuilder
+using TMPro;
+using System.Linq;
+using UnityEngine.SceneManagement; // Penting untuk pindah Scene
+
+public class QuizManager : MonoBehaviour
+{
+    [Header("Quiz Segment")]
+    public TextAsset questionJson;
+    public GameObject questionPanel;
+    public TMP_Text descriptionText;
+    public Image questionImage; 
+    public Transform sentenceContainer; // Container untuk kalimat dengan {blank}
+    public GameObject textPrefab; // Prefab UI Text biasa
+    public GameObject slotPrefab; // Prefab UI Slot kosong (Button/Image)
+    public SmartGridSystem optionsGrid;
+    public Button checkButton; 
+    public TMP_Text checkButtonText;
+
+    [Header("Compliment Reaction Segment")]
+    public TextAsset complimentJson;
+    public GameObject feedbackCorrectPanel;
+    public TMP_Text correctMessageText;
+
+    [Header("Explanation Segment")]
+    public TextAsset explanationJson;
+    public GameObject feedExplanationPanel;
+
+
+    void Start()
+    {
+        // Inisialisasi quiz di sini
+    }
+
+    void LoadData()
+    {
+        
+    }
+}
